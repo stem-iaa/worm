@@ -33,3 +33,8 @@ During this class, students will be completing their assignments on a virtual ma
 ### Viewing cohort information
 
 On your profile under the info card, the cohort is displayed and can be clicked to navigate to a page displaying all of the instructors, mentors, and students in the cohort.
+
+
+### Assignment solutions
+
+If you would like to assist a student with their coursework, solutions to their programming assignments can be viewed by navigating to `Solutions` in your username dropdown at the top right.
