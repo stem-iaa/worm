@@ -10,8 +10,8 @@ First, navigate to [www.stem-iaa.org](https://www.stem-iaa.org). The [Chrome web
 
 Then, click `Login` at the top right. Your account has already been created with the following credentials:
 
-<div>Username: <mark>username</mark></div>
-<div>Password: <mark>password</mark></div>
+<div>Username: <mark></mark></div>
+<div>Password: <mark></mark></div>
 <br>
 
 You will then be taken to your profile. This page can be seen by other students, as well as your mentors/instructors.
