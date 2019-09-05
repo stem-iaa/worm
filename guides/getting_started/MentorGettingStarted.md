@@ -28,7 +28,7 @@ Your account settings can be changed by clicking your username dropdown at the t
 
 ### Connecting to virtual machines
 
-During this class, students will be completing their assignments on a virtual machine. You may wish to connect to a student's virtual machine to help them with an assignment. To connect to a VM, navigate to your profile and then click on the profile of the student whose VM you wish to connect to. Then, connect via the button under their student info card.
+During this class, students will be completing their assignments on a Ubuntu virtual machine. You may wish to connect to a student's virtual machine to help them with an assignment. To connect to a VM, navigate to your profile and then click on the profile of the student whose VM you wish to connect to. Then, connect via the button under their student info card.
 
 ### Viewing cohort information
 
